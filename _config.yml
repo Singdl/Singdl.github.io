@@ -66,7 +66,7 @@ gitalk:
   clientSecret: c85c9779544b5c5116cb23652f793c93c99ef6a0    #生成的clientSecret
   repo: Singdl.github.io    #仓库名称
   owner: Singdl    #github用户名
-  admin: wanghuan0718@outlook.com
+  admin: Timiyu
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
