@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "新蝶在线课程",
+        href: "https://ke.singdl.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "新蝶在线官网",
+        href: "http://www.singdl.com"
     },{
         title: "Apple",
         href: "https://apple.com"
