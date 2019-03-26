@@ -4,10 +4,10 @@ SEOTitle: 博客 | 新蝶在线
 header-img: img/post-bg-desk.jpg
 email: postmaster@singdl.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: ""
 url: "https://club.singdl.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Timiyu/Singdl.github.io" # you code repository
+github_repo: "https://github.com/Singdl/Singdl.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
